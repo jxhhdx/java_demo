@@ -1,0 +1,8 @@
+server:
+  port: 8001
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: i@gx3296
+    url: jdbc:mysql://121.199.70.205/mango?characterEncoding=utf-8&useSSL=false
